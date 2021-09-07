@@ -27,7 +27,7 @@ GMCAD's repository consists of 3 main elements:
 - The parameters file: it contains the mechanical and geometrical constraints of the designs
 
 ## Link to download GMCAD
-The link to download GMCAD is:
+The link to download GMCAD is: https://drive.google.com/file/d/1fNnuKPTVygAM3UQgdeFdi9CJtvKGaCGG/view?usp=sharing and https://drive.google.com/file/d/1yRSBJhvPiOuNwdnbbIEqZepAjNNwYqiR/view?usp=sharing
 
 ## How to use GMCAD?
 The jupyter notebook Explore_GMCAD.ipynb explains in details how to read and explore GMCAD.
